@@ -1,5 +1,5 @@
 import unittest
-from searchInsertPosition import searchInsertBinary
+from ..searchInsertPosition import searchInsertBinary
 
 class TestSearchInsert(unittest.TestCase):
     def test_search(self):
